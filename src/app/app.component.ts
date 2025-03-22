@@ -43,9 +43,9 @@ import { Padre22Component } from './22_DecoradorOutput/padre22/padre22.component
 export class AppComponent {
   title = 'ProyectoAngularActividades';
 
-  titulo = 'Universidad Angular';
+  titulo = 'Universidad UTS';
   usuario = {
-    nombre: 'Cesar Andres',
+    nombre: 'Omar Alan Encinas Amarillas',
     edad: 20
   };
 
